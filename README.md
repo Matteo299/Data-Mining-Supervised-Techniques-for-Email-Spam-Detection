@@ -1,4 +1,4 @@
-# Machine Learning Techinques for Spam Detection
+# Data Mining Supervised Techniques for Email Spam Detection
 
 The aim of this project is to build a program that classifies mail as spam or not. 
 
