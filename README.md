@@ -4,9 +4,9 @@ The aim of this project is to build a program that classifies mail as spam or no
 
 ## Description
 
-Different machine learning algorithms, such as Logistic Regression, Random Forest, Support Vector Machine, KNN and Naive Bayes are compared to decide which one is most suitable for our task. 
+Different data mining algorithms, such as Decision Tree, Random Forest, Support Vector Machine, KNN and Naive Bayes are compared to decide which one is most suitable for our task. 
 This also includes preprocessing the text data to reduce noise through tokenization, stemming, lemmatization, etc., and selecting the features and measuring the performance of each algorithm through appropriate metrics.
-We are using the Enron-spam dataset available in Kaggle. 
+The Enron-spam dataset available in Kaggle is used. 
 The major learning outcome from this project will be in finding out which algorithms are best suited for text-based classification and in finding out the ideal conditions for the same.
 
 
